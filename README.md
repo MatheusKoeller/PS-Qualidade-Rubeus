@@ -34,4 +34,6 @@ Para abrir os testes com Cypress:
  - Matheus Mação
  -  <a href="https://www.linkedin.com/in/matheus-ma%C3%A7%C3%A3o/" target="_blank"> LinkedIn 👀 </a>
 
+  OBS: Foi adicionado um arquivo em PDF que contem a analise dos site!
+
  
