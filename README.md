@@ -1,4 +1,4 @@
-# PS-Qualidade-Rubeus
+# PS-Qualidade-Rubeus 🐜🐜🐜
 Automação de testes QA do formulário de email da Rubeus com Cypress.
 
 :rocket: Bem-vindo ao projeto de teste de certificação da Rubeus :rocket:
