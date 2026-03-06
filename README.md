@@ -24,8 +24,8 @@ Entre na pasta do projeto:
 - cd "Teste site Certificação - Rubeus"
 
 Instale as dependências (se necessário):
-npm install
+- npm install
 
 Para abrir os testes com Cypress:
-npx cypress open
-Visualizar projeto no navegador
+- npx cypress open
+- Visualizar projeto no navegador
