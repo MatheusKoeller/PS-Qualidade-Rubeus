@@ -1,7 +1,7 @@
 # PS-Qualidade-Rubeus 🐜🐜🐜
 Automação de testes QA do formulário de email da Rubeus com Cypress.
 
-:rocket: Bem-vindo ao projeto de teste de certificação da Rubeus :rocket:
+:rocket: Bem-vindo ao projeto de teste do site certificação da Rubeus :rocket:
 
 🛠️ Ferramentas utilizadas
 - 💻 HTML
@@ -31,6 +31,7 @@ Para abrir os testes com Cypress:
 - Visualizar projeto no navegador
 
 👤 Autor
- - Matheus Mação <a href="https://www.linkedin.com/in/matheus-ma%C3%A7%C3%A3o/" target="_blank"> LinkedIn 👀 </a>
+ - Matheus Mação
+ -  <a href="https://www.linkedin.com/in/matheus-ma%C3%A7%C3%A3o/" target="_blank"> LinkedIn 👀 </a>
 
  
