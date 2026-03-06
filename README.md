@@ -3,12 +3,12 @@ Automação de testes QA do formulário de email da Rubeus com Cypress.
 
 :rocket: Bem-vindo ao projeto de teste de certificação da Rubeus :rocket:
 
-Ferramentas utilizadas:
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Cypress (para testes automatizados)
+🛠️ Ferramentas utilizadas
+- 💻 HTML
+- 🎨 CSS
+- 📝 JavaScript
+- ⚙️ Node.js
+- 🧪 Cypress (para testes automatizados)
 
 Funcionalidades do projeto:
 - Navegação entre páginas
@@ -17,7 +17,7 @@ Funcionalidades do projeto:
 - Exemplo de scripts de QA
 - Como visualizar / usar
 
-Clone o repositório:
+🚀 Clone o repositório:
 - git clone https://github.com/MatheusKoeller/PS-Qualidade-Rubeus.git
 
 Entre na pasta do projeto:
@@ -29,3 +29,7 @@ Instale as dependências (se necessário):
 Para abrir os testes com Cypress:
 - npx cypress open
 - Visualizar projeto no navegador
+
+👤 Autor
+Matheus Mação
+LinkedIn https://www.linkedin.com/in/matheus-ma%C3%A7%C3%A3o/
