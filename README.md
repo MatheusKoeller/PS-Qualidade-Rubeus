@@ -31,5 +31,6 @@ Para abrir os testes com Cypress:
 - Visualizar projeto no navegador
 
 👤 Autor
-Matheus Mação
-LinkedIn https://www.linkedin.com/in/matheus-ma%C3%A7%C3%A3o/
+ - Matheus Mação <a href="https://www.linkedin.com/in/matheus-ma%C3%A7%C3%A3o/" target="_blank"> LinkedIn 👀 </a>
+
+ 
